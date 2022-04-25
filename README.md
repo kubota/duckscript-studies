@@ -8,6 +8,10 @@ you need to use https://github.com/mame82/duck2spark to encode digispark's paylo
 #### Code Mode 👨🏽‍💻 
  A computer is like air conditioning - it becomes useless when you open Windows
 
+
+
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -23,9 +27,16 @@ you need to use https://github.com/mame82/duck2spark to encode digispark's paylo
 </details>
 
 
+
+
+
+
 #### Descriptive 🗒
 
 Software is like sex: It's better when it's free.
+
+
+
 
 ## License 
 
