@@ -9,5 +9,5 @@ you need to use https://github.com/mame82/duck2spark to encode digispark's paylo
 
   ___                  ___  
  (o o)                (o o) 
-(  V  ) little Ramen (  V  )
+(  V  ) piu piu piu  (  V  )
 --m-m------------------m-m--
