@@ -32,9 +32,9 @@ you need to use https://github.com/mame82/duck2spark to encode digispark's paylo
 
 #### Descriptive 🗒
 
-Software is like sex : It's better when it's free.
+The hacker ethic is a philosophy and set of moral values that is common within hacker culture. Practitioners of the hacker ethic believe that sharing information and data with others is an ethical imperative.The hacker ethic is related to the concept of freedom of information, as well as the political theories of anti-authoritarianism, socialism, liberalism, anarchism, and libertarianism.
 
-
+...
 
 
 ## License 
